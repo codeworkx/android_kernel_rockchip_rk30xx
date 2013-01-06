@@ -1192,16 +1192,14 @@ CONFIG_WLAN_80211=y
 # CONFIG_BCM4319 is not set
 # CONFIG_MV8686 is not set
 # CONFIG_RTL8192CU is not set
-# CONFIG_RTL8188EUS is not set
+CONFIG_RTL8188EU=y
 # CONFIG_AR6003 is not set
-CONFIG_RKWIFI=y
-CONFIG_RKWIFI_SYS_IFACE=y
-CONFIG_RK_CFG80211=y
+# CONFIG_RKWIFI is not set
 # CONFIG_BCM4330 is not set
 # CONFIG_RK903 is not set
-CONFIG_RK901=y
+# CONFIG_RK901 is not set
 # CONFIG_RKWIFI_37_4M is not set
-CONFIG_RKWIFI_26M=y
+# CONFIG_RKWIFI_26M is not set
 
 #
 # Enable WiMAX (Networking options) to see the WiMAX drivers
