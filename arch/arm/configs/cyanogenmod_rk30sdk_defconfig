@@ -1192,7 +1192,7 @@ CONFIG_WLAN_80211=y
 # CONFIG_BCM4319 is not set
 # CONFIG_MV8686 is not set
 # CONFIG_RTL8192CU is not set
-CONFIG_RTL8188EU=y
+# CONFIG_RTL8188EU is not set
 # CONFIG_AR6003 is not set
 # CONFIG_RKWIFI is not set
 # CONFIG_BCM4330 is not set
